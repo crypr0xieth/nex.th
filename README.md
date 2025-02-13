@@ -29,7 +29,7 @@ Steps
 Clone the repository:
 
 
-git clone https://github.com/your-username/crypto-portfolio.git
+git clone https://github.com/crypr0xieth/nex.th.git
 cd crypto-portfolio
 Install the required dependencies:
 
